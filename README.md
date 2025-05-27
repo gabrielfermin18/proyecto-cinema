@@ -7,13 +7,11 @@
 Este proyecto tiene como finalidad desarrollar un sistema web para **Cinema**, permitiendo gestionar de forma eficiente las operaciones relacionadas con clientes, películas, empleados y reservas.
 
 ## Tecnologías Utilizadas
-- ASP.NET Core (MVC)  
-- .NET 6.0  
-- C#  
-- Entity Framework Core  
-- SQL Server  
-- HTML, CSS y JavaScript
-
+- Sublime Text  
+- HTML  
+- CSS  
+- JavaScript
+  
 **📦 Descargar proyecto:**  
 [🔗 Descargar desde MediaFire (Trabajo Final.rar - 100 MB)](https://www.mediafire.com/file/9c6500o67txa51m/Trabajo+Final.rar/file)
 
