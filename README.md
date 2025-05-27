@@ -14,17 +14,16 @@ Este proyecto tiene como finalidad desarrollar un sistema web para **Cinema**, p
 - SQL Server  
 - HTML, CSS y JavaScript
 
-## 🎬 Demo en vivo
+## 🎥 Ejemplo en vivo
 
-[![Ver en YouTube](https://img.youtube.com/vi/CjWG10N2VhI/maxresdefault.jpg)](https://youtu.be/CjWG10N2VhI)
+[![Ver en YouTube](https://img.youtube.com/vi/SE4KcWNMpZI/maxresdefault.jpg)](https://youtu.be/SE4KcWNMpZI)
 
 ## 🚀 Instalación
 
-1. Instalar **Visual Studio Code** con soporte para .NET 6.0  
-2. Instalar **SQL Server Management Studio**  
-3. Ejecutar los scripts de base de datos proporcionados  
-4. Abrir la solución del proyecto en Visual Studio Code  
-5. Ejecutar el proyecto desde el archivo `Index`
+1. Instalar **Sublime Text**  
+2. Clonar el repositorio o descargar el código fuente  
+3. Abrir la carpeta del proyecto en Sublime Text  
+4. Ejecutar el archivo `index.html` en tu navegador
 
 ## 📄 Licencia
 Este proyecto está licenciado bajo la **MIT License**. Puedes usarlo, modificarlo y distribuirlo libremente.
