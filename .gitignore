@@ -1,0 +1,37 @@
+touch .gitignore
+
+# Carpeta del editor
+.vscode/
+*.code-workspace
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de sistema de compilación o IDEs
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Carpeta de dependencias (si se usan)
+node_modules/
+vendor/
+
+# Archivos grandes o multimedia
+*.mp4
+*.avi
+*.mov
+*.zip
+*.rar
+*.7z
+
+# Publicaciones comprimidas del proyecto
+/dist/
+/build/
+videos/
+media/
+
+git rm -r --cached .
+git add .
+git commit -m "Aplicar .gitignore y limpiar archivos grandes"
