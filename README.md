@@ -14,9 +14,8 @@ Este proyecto tiene como finalidad desarrollar un sistema web para **Cinema**, p
 - SQL Server  
 - HTML, CSS y JavaScript
 
-## 🎥 Ejemplo en vivo
-
-[![Ver en YouTube](https://img.youtube.com/vi/SE4KcWNMpZI/maxresdefault.jpg)](https://youtu.be/SE4KcWNMpZI)
+**📦 Descargar proyecto:**  
+[🔗 Descargar desde MediaFire (Trabajo Final.rar - 100 MB)](https://www.mediafire.com/file/9c6500o67txa51m/Trabajo+Final.rar/file)
 
 ## 🚀 Instalación
 
